@@ -17,7 +17,7 @@ Compile groovy source files
 
    or more generally in groovy-options
    
-    :groovy-options {:includeJavaRuntime true}
+    :groovc-options {:includeJavaRuntime true}
 
 
    Run groovyc
